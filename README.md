@@ -1,2 +1,3 @@
-# Spotify
-# CREATE A src FOLDER INTO THE LOCAL spotify DIRECTORY THEN ADD ALL THE SOURCE FILES INTO src FOLDER
+# Spotify 
+# Important
+# Create a src folder in the local spotify directory and then add all the Src folder files into it.
